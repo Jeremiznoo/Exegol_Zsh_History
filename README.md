@@ -1,3 +1,5 @@
+# Getting started
+
 This repository contains the extracted .zsh_history from Exegol full images. It allows users to integrate the command history into other Linux distributions, including an updated version with more additional history commands.
 
 # Installation
