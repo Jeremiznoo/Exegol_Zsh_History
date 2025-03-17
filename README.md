@@ -1,6 +1,4 @@
-Updated version of Exegol Zsh History for Kali Linux & Other Distributions with more output,
-
-This repository contains the extracted .zsh_history from Exegol full images. It allows users to integrate the command history into other Linux distributions, including an updated version with additional history commands.
+This repository contains the extracted .zsh_history from Exegol full images. It allows users to integrate the command history into other Linux distributions, including an updated version with more additional history commands.
 
 # Installation
 
