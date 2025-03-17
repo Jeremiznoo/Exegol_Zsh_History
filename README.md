@@ -10,6 +10,7 @@ cd Updated_Exegol_Zsh_History/
 ```
 # Applying the History
 
+
 To append the extracted history to your existing .zsh_history, use:
 
 ```
